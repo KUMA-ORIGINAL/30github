@@ -1,7 +1,14 @@
 print(10)
 for i in range(10):
   print(i)
-yfghjhgghj
-ррщшпрлоррроо
-оорррровьаьаь
-алалаллалалаокоаоаоаоалаьал
+
+NUM = 0
+
+def increment()
+  NUM += 1
+
+increment()
+increment()
+increment()
+
+print(NUM)
