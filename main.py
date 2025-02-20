@@ -11,4 +11,4 @@ increment()
 increment()
 increment()
 
-print(NUM)
+print(NUM + 1)
