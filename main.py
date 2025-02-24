@@ -12,7 +12,7 @@ increment()
 increment()
 increment()
 increment()
-increment()
-
+increments()
+increments()
 
 print(NUM + 1)
