@@ -15,5 +15,6 @@ increment()
 increments()
 increments()
 increment()
+increment()
 
 print(NUM + 1)
