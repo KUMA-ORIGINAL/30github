@@ -20,5 +20,6 @@ increment()
 increment()
 increment()
 increment()
+increment()
 
 print(NUM + 1)
